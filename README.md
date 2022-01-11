@@ -4,7 +4,7 @@
  -->
 I'm a software engineer based in London, UK with a keen interest in UI & UX design.
 
-I'm currently working in the UI/API Engineering team at **[Yieldify](https://www.yieldify.com/)**.
+I'm currently working in the UI/API Chapter at **[Yieldify](https://www.yieldify.com/)**.
 
 ### Find me on the interweb 🕸
 - **[Personal website](https://kevindcode.com)**
